@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dodochicha
-- 👀 I’m interested in use computer
+- 👀 I’m interested in using computer
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on marijuana legalization
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
 <!---
